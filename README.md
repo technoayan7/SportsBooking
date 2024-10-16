@@ -1,7 +1,7 @@
 
 # **Sports Booking App**
 
-**College ID:** [IIT2021090]
+**College ID:** iit2021090@iiita.ac.in
 
 ## **Goal**
 Build a booking app for a sports technology company's operations team, providing functionalities to manage multiple sports centers, resources, and customer bookings.
