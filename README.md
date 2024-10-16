@@ -25,32 +25,29 @@ Build a booking app for a sports technology company's operations team, providing
   - **Courts/Resources**
   - **Sports**
   - **Bookings**
-- Optional: Include users if authentication is implemented.
+- **authentication is implemented**
 
 ### **Backend Development**
 - Develop APIs to:
   - **View Bookings**: Retrieve bookings for a specific center, sport, and date.
   - **Create Booking**: Allow creating a new booking while preventing double bookings.
 - Implement basic error handling and input validation.
-- **Authentication**: Optional implementation (e.g., JWT tokens, sessions).
+- **Authentication**: implemented (e.g., JWT tokens, sessions).
 
 ### **Frontend Development**
 - Create a user-friendly interface for the operations team to:
   - Select a center and a sport.
   - View bookings for the selected day for all resources (courts) of the selected sport.
   - Create new bookings.
-- Ensure the UI is functional; extensive styling is not required.
 
 ### **Tech Stack Flexibility**
-- Use any programming language or framework of your choice for both frontend and backend development.
+- Build on MERN Stack - MongoDb, ReactJs, Express, NodeJs.
 
-### **Database Options**
-- Use any database (e.g., MongoDB, PostgreSQL).
-- Alternatively, you can use in-memory data structures or mock data.
+### **Database**
+- Used Database  is (MongoDB).
 
 ### **Deployment**
-- Deploy the application on any cloud platform (e.g., Render, Vercel, Heroku).
-- Ensure the deployed application is accessible for evaluation.
+- Deploy the application on Onrender.com
 
 ---
 
@@ -157,7 +154,7 @@ cd SportsBooking
 ## **Future Improvements**
 - **Payment Integration**: Implement payment gateway for bookings.
 - **Email Notifications**: Send confirmations and reminders via email.
-- **Admin Dashboard**: Enhanced features for administrative control over bookings.
+- **User Dashboard**: Enhanced features for administrative control over bookings.
 
 ---
 
