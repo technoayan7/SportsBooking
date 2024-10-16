@@ -3,6 +3,20 @@
 
 **College ID:** iit2021090@iiita.ac.in
 
+![image](https://github.com/user-attachments/assets/0636ad2e-531b-45bf-8deb-a0d2734ea101)
+
+
+![image](https://github.com/user-attachments/assets/488577d5-6fa4-49ad-8a6f-cd8151ccadf2)
+
+---
+
+## **Deployed Links**
+
+- **Frontend**: [Frontend Link](https://sportbookings.onrender.com)  
+- **Backend**: [Backend Link](https://sportsbooking.onrender.com)
+
+---
+
 ## **Goal**
 Build a booking app for a sports technology company's operations team, providing functionalities to manage multiple sports centers, resources, and customer bookings.
 
@@ -130,12 +144,6 @@ cd SportsBooking
 ### **Usability**
 - Provide feedback for successful operations (e.g., booking confirmation).
 - Display error messages for invalid actions (e.g., overlapping bookings).
-
----
-
-## **Deployed Links**
-- **Frontend**: [Frontend Link](https://sportbookings.onrender.com)  
-- **Backend**: [Backend Link](https://sportsbooking.onrender.com)
 
 ---
 
